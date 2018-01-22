@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listView_dividerHeight">16dp</dimen>
+
+    <!--  define padding of each item -->
+    <dimen name="item_padding">16dp</dimen>
+
+    <!--  define margin of each item -->
+    <dimen name="item_margin">16dp</dimen>
+
+    <!-- define height of each text item -->
+    <dimen name="item_height">0dp</dimen>
+
+    <!-- define height of each list item -->
+    <dimen name="item_list_height">60dp</dimen>
+
+    <!-- define textSize for location offset text -->
+    <dimen name="location_offset_textSize">12sp</dimen>
+
+    <!-- define the width for magnitude textView -->
+    <dimen name="mag_width">36dp</dimen>
+
+    <!-- define the height for magnitude textView -->
+    <dimen name="mag_height">36dp</dimen>
+    <dimen name="mag_textSize">16sp</dimen>
+    <dimen name="time_textSize">16sp</dimen>
+    <dimen name="date_textSize">12sp</dimen>
+    <dimen name="primary_location_textSize">16sp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
+
+</resources>
